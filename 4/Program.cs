@@ -10,7 +10,6 @@ namespace _4
             string myZodiakSign;
             string myWork;
 
-
             Console.WriteLine("Как Вас зовут");
 
             myName = Console.ReadLine();
